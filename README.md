@@ -16,14 +16,14 @@
 #
 
 ### STATS:
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mayconCardos0&show_icons=true&count_private=true&hide_border=true&title_color=024c9c&icon_color=023b78&text_color=c9d1d9&bg_color=0d1117" alt="Arthur Farias github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconCardos0&layout=compact&hide_border=true&title_color=024c9c&text_color=024c9c&bg_color=0d1117" />
+<div>  
+  <img src="https://github-readme-stats.vercel.app/api?username=mayconCardos0&show_icons=true&count_private=true&hide_border=true&title_color=024c9c&icon_color=023b78&text_color=c9d1d9&bg_color=0d1117" alt="Arthur Farias github stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconCardos0&layout=compact&hide_border=true&title_color=024c9c&text_color=024c9c&bg_color=0d1117" />
 </div>
 
 ##
   
 <div> 
-  <a href = "mailto:maycon_silva2003@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/maycon-silva-cardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href ="mailto:maycon_silva2003@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+  <a href="http://www.linkedin.com/in/maycon-silva-cardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
